@@ -1,5 +1,6 @@
 
 # Cezary Budrewicz 
+<!-- <img src="/home/cb/Pictures/baldsMe.png" alt="My cool logo" /> -->
 
 *Programowaniem zajmuję się od 2015 roku. Programuję w JavaScript, głównie front-end przy użyciu React.js.  
 Chcę pracować w firmie, w której będę mógł przede wszystkim rozwijać się oraz uczyć lepszych technik programowania.* 
@@ -13,7 +14,7 @@ Chcę pracować w firmie, w której będę mógł przede wszystkim rozwijać si�
 #
 
 ## Umiejętności i kwalifikacje:   
-## IT
+### IT
 - JavaScript (**ES6**), 
 - **React.js** *(redux, promises, jest)*
 - node.js *(express, typeScript, jest)*
