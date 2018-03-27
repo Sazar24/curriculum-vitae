@@ -4,8 +4,8 @@
 *Programowaniem zajmuję się od 2015 roku. Programuję w JavaScript, głównie front-end przy użyciu React.js.*
 
 **miejsce zamieszkania:** Warszawa  
-**Telefon:** 513 440 818  
 **Data ur.:** sierpień 1989 r.   
+**Telefon:** 513 440 818  
 **E-mail:** budrewicz.cezary@gmail.com
 
 
