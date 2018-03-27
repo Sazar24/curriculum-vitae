@@ -1,6 +1,8 @@
 
 # Cezary Budrewicz 
 
+*Programowaniem zajmuję się od 2015 roku. Programuję w JavaScript, przy użyciu React.js  (mam także doświadczenie w  C++, w Qt 5.7 ).  
+Chcę pracować w firmie, w której będę mógł przede wszystkim rozwijać się oraz uczyć lepszych technik programowania.* 
 
 *miejsce zamieszkania*: Warszawa  
 *Telefon*: 513 440 818  
@@ -8,30 +10,26 @@
 *E-mail*:  budrewicz.cezary@gmail.com
 
 
-*Programowaniem zajmuję się od 2015 roku. Programuję w JavaScript, przy użyciu React.js  (mam także doświadczenie w  C++, w Qt 5.7 ).
-Chcę pracować w firmie, w której będę mógł przede wszystkim rozwijać się oraz uczyć lepszych technik programowania.* 
 #
 
 ## Umiejętności i kwalifikacje:   
 ## IT
-- JavaScript (ES6),   
-- React.js  (poziom średnio-zaawansowany)
+- JavaScript (ES6), 
+- React.js *(using Redux, promises, jest)*
+- node.js *(using Express, typeScript, jest)*
 - znajomość systemu obsługi wersji GIT
-- C++             (poziom średnio-zaawansowany)
-- znajomość bibliotek Qt
-VBA
+- C++, znajomość bibliotek Qt
+- VBA
 
 
 ###  Języki obce:
 - angielski (B2/C1)  
-- rosyjski (B1)
 
 
-Zalety / atuty:
-motywacja do samorozwoju, chęć poznawania nowych technologii
-samodzielność
-komunikatywność w pracy zespołowej
-angielski na poziomie umożliwiającym czytanie dokumentacji technicznej
+### Zalety / atuty:
+- motywacja do samorozwoju, chęć poznawania nowych technologii
+- samodzielność  
+- angielski na poziomie umożliwiającym czytanie dokumentacji technicznej
 
 # 
 ## Doświadczenie:  
