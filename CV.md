@@ -19,11 +19,11 @@
 - node.js, express
 - **Git**
 - VBA
--  Aktualnie **uczę się**: Typescript, IoC, Rx'ów oraz MobX'a
+-  Aktualnie **uczę się**: Typescript, IoC, Rx'ów, MobX'a
 
 ### Języki obce:
 - angielski na poziomie umożliwiającym czytanie i pisanie dokumentacji technicznej: B2/C1
-
+#
 ### Praca:  
 - ProService AT (od 02.2017 - do teraz)  
 Automatyzacja i optymalizacja procesów wprowadzania i przetwarzania danych
