@@ -26,7 +26,8 @@
 #
 ### Praca:  
 - ProService AT (od 02.2017 - do teraz)  
-Automatyzacja i optymalizacja procesów wprowadzania i przetwarzania danych
+Automatyzacja i optymalizacja procesów wprowadzania i przetwarzania danych  
+Sporządzanie dokumentacji analityczno-projektowych
 
 ### Wykształcenie:
 - kierunek: Prawo (2008 - 2013)  
