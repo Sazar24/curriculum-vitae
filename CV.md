@@ -16,7 +16,7 @@
 - aplikacje c++ - *www.budrewiczCezary.pl/portfolio*  
  *(aplikacje natywne Qt)*
 - JavaScript (**ES6**)
-- node.js, express
+- node.js, express, mongoDB
 - **Git**
 - VBA
 -  Aktualnie **uczę się**: Typescript, IoC, Rx'ów, MobX'a
@@ -25,7 +25,7 @@
 - angielski na poziomie umożliwiającym czytanie i pisanie dokumentacji technicznej: B2/C1
 #
 ### Praca:  
-- ProService AT (od 02.2017 - do teraz)  
+- ProService AT (od 02.2017 - obecnie)  
 Automatyzacja i optymalizacja procesów wprowadzania i przetwarzania danych  
 Sporządzanie dokumentacji analityczno-projektowych
 
