@@ -1,7 +1,7 @@
 
 # Cezary Budrewicz 
 
-*Programowaniem zajmuję się od 2015 roku. Programuję w JavaScript, głównie front-end przy użyciu React.js.*
+*Programowaniem zajmuję się od 2015 roku. Programuję głównie front-end w JavaScript przy użyciu React.js. oraz back-end w typeScript.*
 
 **miejsce zamieszkania:** Warszawa  
 **Data ur.:** sierpień 1989 r.   
@@ -19,7 +19,7 @@
 - node.js, express, mongoDB
 - **Git**
 - VBA
--  Aktualnie **uczę się**: Typescript, IoC, Rx'ów, MobX'a
+-  Aktualnie **uczę się**: TypeScript, IoC, Rx'ów, MobX'a
 
 ### Języki obce:
 - angielski na poziomie umożliwiającym czytanie i pisanie dokumentacji technicznej: B2/C1
