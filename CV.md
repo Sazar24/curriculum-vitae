@@ -1,40 +1,47 @@
-
-# Cezary Budrewicz 
-
-*Programowaniem zajmuję się od 2015 roku. Programuję głównie front-end w JavaScript przy użyciu React.js. oraz back-end w typeScript.*
-
-**miejsce zamieszkania:** Warszawa  
-**Data ur.:** sierpień 1989 r.   
-**Telefon:** 513 440 818  
-**E-mail:** budrewicz.cezary@gmail.com
-
-
+# Cezary Budrewicz  
+Front-end developer with 1 year experience aspiring to become Full-stack engineer.
++ budrewicz.cezary@gmail.com
++ mobile: 513 440 818 
++ lives in **Warsaw**
++ born in 1989
 #
-## Umiejętności 
-- aplikacje **React.js** - *www.github.com/Sazar24*  
-*(redux, async/promises, jest, material-ui)*
-- aplikacje c++ - *www.budrewiczCezary.pl/portfolio*  
- *(aplikacje natywne Qt)*
-- JavaScript (**ES6**)
-- node.js, express, mongoDB
-- **Git**
-- VBA
--  Aktualnie **uczę się**: TypeScript, IoC, Rx'ów, MobX'a
+## Core skills
+### Front-end
++ **React**.js with **TypeScript**
++ semantic-ui
++ redux
 
-### Języki obce:
-- angielski na poziomie umożliwiającym czytanie i pisanie dokumentacji technicznej: B2/C1
+### back-end
++ Node.js with TypeScript (RESTful api)
+
+## know technologies and other stuff
++ ES6, redux, mobX,
++ MongoDB, 
++ Semantic-ui, react-semantic-ui, material-ui, bootstrap
++ Git, npm, webpack, babel
++ Jest. unit tests and e2e (protractor)
++ Qt (C++), vba
++ Linux (ubuntu), Visual Studio Code, vim
+
+## Currently learning
++ Angular
++ RxJs
 #
-### Praca:  
-- ProService AT (od 02.2017 - obecnie)  
-Automatyzacja i optymalizacja procesów wprowadzania i przetwarzania danych  
-Sporządzanie dokumentacji analityczno-projektowych
-
-### Wykształcenie:
-- kierunek: Prawo (2008 - 2013)  
-Uniwersytet Warmińsko-Mazurski w Olsztynie
-
-
-### Inne:
- - Hobby:  
-Pisanie własnych powieści  
-gra na keyboardzie/pianinie
+## Languages
++ English (B2/C1)
++ Polish (native)
+#
+## employment
+*02.2017 - till now*: ProService Finteco  
+Analityst/tester/developer
++ creating business and technical documentation
++ creating web tools for work-data management  
+#
+## example projects
++ web: https://github.com/Sazar24
++ desctop: budrewiczCezary.pl/portfolio
+#
+## about me
+Developer by passion. Currently mostly Front-end, but Im aspiring to write back-end commercially too.
+I like to work in small teams and alone as well. 
+Hobbies: programming, && keyboard/piano playing && fantasy book stories (reading and writing)
