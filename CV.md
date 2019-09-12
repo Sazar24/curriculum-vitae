@@ -28,7 +28,10 @@ I have experience in front-end test automation too (Selenium webdriver with Java
 + git / gerrit
 + Qt (C++), vba
 + Linux (ubuntu), Visual Studio Code, Vim
+<<<<<<< HEAD
 + Confluence, scrum, agile
+=======
+>>>>>>> 6282d1a09b7311e5fcc6bf526d3cdf60d7bfa8ec
 
 ## Languages:
 + English (B2)
