@@ -1,5 +1,7 @@
 # Cezary Budrewicz  
-JavaScript Front-end developer with 1 year experience aspiring to become Full-stack engineer.
+Front-end developer with 1 year experience mostly with React.js (TypeScript) and some with Angular.  
+I have experience in front-end test automation too (Selenium webdriver with Java).
+
 + budrewicz.cezary@gmail.com
 + mobile: 513 440 818 
 + lives in **Warsaw**
@@ -16,21 +18,19 @@ JavaScript Front-end developer with 1 year experience aspiring to become Full-st
 + Node.js with TypeScript (RESTful api)
 
 ## Known technologies and other stuff:
-+ ES6, redux, mobX,
++ ES6, redux, mobX, 
++ Angular, RxJS
 + MongoDB, 
 + Semantic-ui, react-semantic-ui, material-ui, bootstrap
-+ Git, npm, webpack, babel
-+ Jest. unit tests and e2e (protractor)
++ npm, webpack, babel
++ Jest. unit tests and e2e (selenium webdriver)
++ Java
++ git / gerrit
 + Qt (C++), vba
-+ Linux (ubuntu), Visual Studio Code, vim
-
-## Currently learning:
-+ Angular
-+ RxJs
-#
++ Linux (ubuntu), Visual Studio Code, Vim
 
 ## Languages:
-+ English (B2/C1)
++ English (B2)
 + Polish (native)
 #
 
@@ -43,12 +43,13 @@ Analityst/tester/developer
 
 ## Example projects:
 + web: https://github.com/Sazar24
-+ desctop: budrewiczCezary.pl/portfolio
+
 #
 
 ## About me:
-Developer by passion. Currently mostly Front-end, but Im aspiring to write back-end commercially too.
+Developer by passion. 
+Currently (2019) I'm a develeper of tests automation (selenium webDriver + Java), yet I'm considering going back to developing Frontend apps .
 I like to work in small teams and alone as well. 
 
 ## Hobbies: 
-programming && keyboard/piano playing && fantasy book stories (reading and writing)
+programming && keyboard/piano playing && fantasy book stories (reading [Mostly B. Sanderson and T.Pratchett] and writing)
