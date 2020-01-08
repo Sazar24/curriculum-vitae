@@ -17,18 +17,18 @@ I have experience in front-end test automation too (Selenium webdriver with Java
 ### Back-end:
 + Node.js with TypeScript (RESTful api)
 
-## Known technologies and other stuff:
+## Technologies known and whitch I worked with:
 + ES6, redux, mobX, 
 + Angular, RxJS
 + MongoDB, 
 + Semantic-ui, react-semantic-ui, material-ui, bootstrap
-+ npm, webpack, babel
 + Jest. unit tests and e2e (selenium webdriver)
-+ Java
 + git / gerrit
 + Qt (C++), vba
++ npm, webpack, babel
++ Java
 + Linux (ubuntu), Visual Studio Code, Vim
-+ Confluence, scrum, agile
++ Confluence, scrum, agile, JIRA
 
 ## Languages:
 + English (B2)
@@ -40,11 +40,13 @@ I have experience in front-end test automation too (Selenium webdriver with Java
 Tests automation Developer:
 + Selenium tests of web-app.  
 -- Selenium webdriver, Java, Maven
++ Automatic tests developer  
+-- TypeScript, pSQL, Jest
 
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =  
 
 *since 02.2018 - 04.2019* (Proservice Finteco) :   
-Analityst & Front-end Developer
+Analityst 
 + creating business and technical documentation  
 -- Confluence, BPMN
 + creating web tools for work-data management  
