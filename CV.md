@@ -3,7 +3,7 @@ Developer with coding experience as:
 \- automation developer (Python)  
 \- front-end developer (JavaScript)  
 In my code my main rule is to write it as clean and legible as possible.  
-Currently I am most interested in python projects.
+Currently I am most interested in Python projects.
 
 --- 
 ## Personal data
@@ -15,7 +15,7 @@ Currently I am most interested in python projects.
 
 ## Core skills:
 ### Job-automation & desktop-apps:
-+ python 3+
++ Python 3+
 
 ### Web-development:
 + Front-end: Reactjs with TypeScript + redux 
@@ -52,7 +52,7 @@ Currently I am most interested in python projects.
 *04.2019 - till now* (Proservice Finteco) :   
 <!-- Tests automation Developer: -->
 + automation developer:  
-\- python 3+ , Sqlite
+\- Python 3+ , Sqlite
 
 + Automatic tests developer  
 \- TypeScript, pSQL, Jest
