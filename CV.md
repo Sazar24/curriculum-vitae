@@ -1,7 +1,12 @@
 # Cezary Budrewicz  
-Front-end developer with 1 year experience mostly with React.js (TypeScript) and some with Angular.  
-I have experience in front-end test automation too (Selenium webdriver with Java).
+Developer with coding experience as:  
+\- automation developer (Python)  
+\- front-end developer (JavaScript)  
+In my code my main rule is to write it as clean and legible as possible.  
+Currently I am most interested in python projects.
 
+--- 
+## Personal data
 + budrewicz.cezary@gmail.com
 + mobile: 513 440 818 
 + lives in **Warsaw**
@@ -9,26 +14,34 @@ I have experience in front-end test automation too (Selenium webdriver with Java
 #
 
 ## Core skills:
-### Front-end:
-+ **React**.js with **TypeScript**
-+ semantic-ui
-+ redux
+### Job-automation & desktop-apps:
++ python 3+
+
+### Web-development:
++ Front-end: Reactjs with TypeScript + redux 
++ Back-end: Node.js with TypeScript (RESTful api)
+<!-- ### Front-end:
++ Reactjs with TypeScript + redux
 
 ### Back-end:
-+ Node.js with TypeScript (RESTful api)
++ Node.js with TypeScript (RESTful api) -->
 
-## Technologies known and whitch I worked with:
-+ ES6, redux, mobX, 
-+ Angular, RxJS
-+ MongoDB, 
-+ Semantic-ui, react-semantic-ui, material-ui, bootstrap
-+ Jest. unit tests and e2e (selenium webdriver)
-+ git / gerrit
-+ Qt (C++), vba
-+ npm, webpack, babel
-+ Java
-+ Linux (ubuntu), Visual Studio Code, Vim
-+ Confluence, scrum, agile, JIRA
+## Technologies (and patterns) whitch I worked with:
++ Dependency Injection (IoC)
++ ES6 (JavaScript), redux + Angular, RxJS  
+\- Semantic-ui, react-semantic-ui, material-ui, bootstrap  
+\- npm, webpack, babel
++ unit tests (Jest - JS library)
++ e2e-tests  
+\- Selenium webdriver  
+\- Page Object Pattern
++ databases:  
+\- MongoDB, pSQL, SQLite
++ other:  
+\- git / gerrit  
+\- JIRA, Confluence, scrum, agile,  
+\- Linux (ubuntu), Visual Studio Code, Vim  
+\- Qt (C++), vba, Java  
 
 ## Languages:
 + English (B2)
@@ -37,34 +50,41 @@ I have experience in front-end test automation too (Selenium webdriver with Java
 
 ## Employment:
 *04.2019 - till now* (Proservice Finteco) :   
-Tests automation Developer:
-+ Selenium tests of web-app.  
--- Selenium webdriver, Java, Maven
+<!-- Tests automation Developer: -->
++ automation developer:  
+\- python 3+ , Sqlite
+
 + Automatic tests developer  
--- TypeScript, pSQL, Jest
+\- TypeScript, pSQL, Jest
+
++ Selenium tests of web-app.  
+\- Selenium webdriver, Java, Maven
 
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =  
 
 *since 02.2018 - 04.2019* (Proservice Finteco) :   
 Analityst 
 + creating business and technical documentation  
--- Confluence, BPMN
+\- Confluence, BPMN
 + creating web tools for work-data management  
--- JavaScript  
--- React.Js, redux
-
-
+\- JavaScript  
+\- React.Js, redux
 #
 
 ## Example projects:
-+ web: https://github.com/Sazar24
-
+web: https://github.com/Sazar24  
 #
 
-## About me:
-Developer by passion. 
-Currently (2019) I'm a develeper of tests automation (selenium webDriver + Java), yet I'm considering going back to developing Frontend apps .
-I like to work in small teams and alone as well. 
+## About me:  
+
+Developer by passion (i.e. I do it, because I like it).  
+I programmed a lot in JavaScript / TypeScript - I actually started with web projects. However, I also gained experience in e2e tests (Selenium) and automation.  
+The last one (automation) is closely related to learning Python, which charmed me :)  
+Since I got "Clean Code" (Robert C. Martin) book, I focus and do my best to write clean and readable code. "Code should be like a story".  
 
 ## Hobbies: 
-programming && keyboard/piano playing && fantasy book stories (reading [Mostly B. Sanderson and T.Pratchett] and writing)
+ - programming 
+ - keyboard/piano playing   
+ - fantasy book stories (reading mostly B. Sanderson and T.Pratchett)   
+ - WoW
+ - Calisthenics (physical exercises and health)  
