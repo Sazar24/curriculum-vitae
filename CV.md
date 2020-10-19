@@ -15,26 +15,32 @@ Currently I am most interested in Python projects.
 
 ## Core skills:
 ### Job-automation & desktop-apps:
-+ Python 3+
++ Python 3+  
+  (sqlAlchemy, IoC, pynput, xlrd)
 
 ### Web-development:
 + Front-end: Reactjs with TypeScript + redux 
 + Back-end: Node.js with TypeScript (RESTful api)
-<!-- ### Front-end:
+
+### Front-end:
 + Reactjs with TypeScript + redux
++ Angular 2+
 
 ### Back-end:
-+ Node.js with TypeScript (RESTful api) -->
++ Node.js with TypeScript (RESTful api)
 
-## Technologies (and patterns) whitch I worked with:
+## Technologies (and patterns) whitch I workthon 3+ ed with:
 + Dependency Injection (IoC)
-+ ES6 (JavaScript), redux + Angular, RxJS  
++ ORM (Object-Relational Mapping)
++ ES6 (JavaScript)  
+\- redux + Angular, RxJS  
 \- Semantic-ui, react-semantic-ui, material-ui, bootstrap  
 \- npm, webpack, babel
-+ unit tests (Jest - JS library)
++ unit tests (JS: Jest, Python: Unittest)
 + e2e-tests  
 \- Selenium webdriver  
-\- Page Object Pattern
+\- Page Object Pattern  
+\- BeatifulSoup 
 + databases:  
 \- MongoDB, pSQL, SQLite
 + other:  
@@ -42,6 +48,7 @@ Currently I am most interested in Python projects.
 \- JIRA, Confluence, scrum, agile,  
 \- Linux (ubuntu), Visual Studio Code, Vim  
 \- Qt (C++), vba, Java  
+\- chrome extensions
 
 ## Languages:
 + English (B2)
@@ -49,10 +56,9 @@ Currently I am most interested in Python projects.
 #
 
 ## Employment:
-*04.2019 - till now* (Proservice Finteco) :   
-<!-- Tests automation Developer: -->
+ *04.2019 - till now* (Proservice Finteco) :   
 + automation developer:  
-\- Python 3+ , Sqlite
+\- Python 3+ , SQLite (sqlAlchemy == ORM)  
 
 + Automatic tests developer  
 \- TypeScript, pSQL, Jest
@@ -60,13 +66,11 @@ Currently I am most interested in Python projects.
 + Selenium tests of web-app.  
 \- Selenium webdriver, Java, Maven
 
-= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =  
-
-*since 02.2018 - 04.2019* (Proservice Finteco) :   
-Analityst 
-+ creating business and technical documentation  
+ *since 02.2018 - 04.2019* (Proservice Finteco) :   
++ Analityst 
+- - creating business and technical documentation  
 \- Confluence, BPMN
-+ creating web tools for work-data management  
+- - creating web tools for work-data management  
 \- JavaScript  
 \- React.Js, redux
 #
@@ -75,14 +79,8 @@ Analityst
 web: https://github.com/Sazar24  
 #
 
-## About me:  
-
-Developer by passion (i.e. I do it, because I like it).  
-I programmed a lot in JavaScript / TypeScript - I actually started with web projects. However, I also gained experience in e2e tests (Selenium) and automation.  
-The last one (automation) is closely related to learning Python, which charmed me :)  
-Since I got "Clean Code" (Robert C. Martin) book, I focus and do my best to write clean and readable code. "Code should be like a story".  
-
 ## Hobbies: 
+ - drawing
  - programming 
  - keyboard/piano playing   
  - fantasy book stories (reading mostly B. Sanderson and T.Pratchett)   
