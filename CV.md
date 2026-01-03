@@ -1,22 +1,23 @@
 # Cezary Budrewicz  
 Developer with coding experience as:  
 \- automation developer (Python)  
-\- front-end developer (JavaScript)  
+\- front-end developer (TypeScript)  
 In my code my main rule is to write it as clean and legible as possible.  
 Currently I am most interested in Python projects.
 
 --- 
 ## Personal data
 + budrewicz.cezary@gmail.com
-+ mobile: 513 440 818 
-+ lives in **Warsaw**
++ mobile: <hidden-because-of-spam-bots>
++ lives in **Olsztyn**
 + born in 1989
 #
 
 ## Core skills:
-### Job-automation & desktop-apps:
+### RPA Developer (Job-automation & desktop-apps):
 + Python 3+  
-  (sqlAlchemy, IoC, pynput, xlrd)
+  (sqlAlchemy, selenium, pynput)
++ chrome extensions (v3)
 
 ### Web-development:
 + Front-end: Reactjs with TypeScript + redux 
